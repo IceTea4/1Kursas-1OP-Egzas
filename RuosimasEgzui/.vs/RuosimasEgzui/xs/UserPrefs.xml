@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FAB75738-E143-445A-9DE7-8F9EA2986787}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskUtils.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="36" />
+      <File FileName="InOut.cs" Line="9" Column="23" />
+      <File FileName="TaskUtils.cs" Line="18" Column="31" />
+      <File FileName="Grupe.cs" Line="28" Column="29" />
+      <File FileName="Studentas.cs" Line="26" Column="29" />
+      <File FileName="Studentai.csv" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RuosimasEgzui" expanded="True">
+            <Node name="RuosimasEgzui" expanded="True">
+              <Node name="TaskUtils.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RuosimasEgzui PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

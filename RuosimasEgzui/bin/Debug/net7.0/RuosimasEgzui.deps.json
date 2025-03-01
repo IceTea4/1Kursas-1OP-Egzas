@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RuosimasEgzui/1.0.0": {
+        "runtime": {
+          "RuosimasEgzui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RuosimasEgzui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
